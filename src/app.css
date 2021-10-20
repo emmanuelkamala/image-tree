@@ -13,7 +13,7 @@
   top: 68%;
   left: 48.5%;
   margin: 0;
-  font-size: 1.4vw;
+  font-size: 1.4rem;
   width: 3vw;
   height: 6vh;
 }
@@ -21,8 +21,8 @@
 @media screen and (max-width: 600px) {
   .button {
     top: 63%;
-    width: 4vw;
- 
+    width: 6vw;
+    font-size: 1.6rem;
   }
 }
 
