@@ -17,3 +17,15 @@
   width: 3vw;
   height: 6vh;
 }
+
+@media screen and (max-width: 550px) {
+  .button {
+    top: 63.7%;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .button {
+    top: 64%;
+  }
+}
